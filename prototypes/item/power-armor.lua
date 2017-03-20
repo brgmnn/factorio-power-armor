@@ -52,5 +52,5 @@ data:extend({
     stack_size = 1,
     equipment_grid = "super-equipment-grid",
     inventory_size_bonus = 40
-  },
+  }
 })

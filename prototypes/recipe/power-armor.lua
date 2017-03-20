@@ -8,8 +8,7 @@ data:extend({
     ingredients = {
       { "power-armor-mk2", 1 }
     },
-    results = "power-armor-mk3",
-    requester_paste_multiplier = 1
+    result = "power-armor-mk3"
   },
   {
     type = "recipe",
@@ -20,8 +19,7 @@ data:extend({
     ingredients = {
       { "power-armor-mk3", 1 }
     },
-    results = "power-armor-mk4",
-    requester_paste_multiplier = 1
+    result = "power-armor-mk4"
   },
   {
     type = "recipe",
@@ -32,7 +30,6 @@ data:extend({
     ingredients = {
       { "power-armor-mk4", 1 }
     },
-    results = "power-armor-mk5",
-    requester_paste_multiplier = 1
+    result = "power-armor-mk5"
   }
 })
