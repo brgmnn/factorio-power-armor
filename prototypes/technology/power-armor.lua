@@ -41,7 +41,7 @@ data:extend({
         { "science-pack-3", 2 },
         { "alien-science-pack", 2 }
       },
-      time = 30
+      time = 40
     },
     order = "g-c-d"
   },
@@ -64,7 +64,7 @@ data:extend({
         { "science-pack-3", 2 },
         { "alien-science-pack", 2 }
       },
-      time = 40
+      time = 50
     },
     order = "g-c-e"
   },
