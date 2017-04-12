@@ -25,7 +25,7 @@ data:extend({
     icon = "__power-armor__/graphics/icons/power-armor/power-armor-mk4.png",
     ingredients = {
       { "iron-gear-wheel", 300 },
-      { "power-armor-mk3", 2 },
+      { "power-armor-mk3", 1 },
       { "processing-unit", 50 },
       { "speed-module-3", 20 },
       { "steel-plate", 150 },
@@ -43,7 +43,7 @@ data:extend({
     ingredients = {
       { "effectivity-module-3", 50 },
       { "iron-gear-wheel", 400 },
-      { "power-armor-mk4", 2 },
+      { "power-armor-mk4", 1 },
       { "speed-module-3", 20 },
       { "steel-plate", 200 },
       { type="fluid", name="lubricant", amount=100 }

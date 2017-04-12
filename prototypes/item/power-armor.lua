@@ -13,7 +13,7 @@ data:extend({
     durability = 25000,
     subgroup = "armor",
     order = "e[power-armor-mk3]",
-    stack_size = 2,
+    stack_size = 1,
     equipment_grid = "giant-equipment-grid",
     inventory_size_bonus = 30
   },
@@ -31,7 +31,7 @@ data:extend({
     durability = 30000,
     subgroup = "armor",
     order = "e[power-armor-mk4]",
-    stack_size = 2,
+    stack_size = 1,
     equipment_grid = "huge-equipment-grid",
     inventory_size_bonus = 40
   },
